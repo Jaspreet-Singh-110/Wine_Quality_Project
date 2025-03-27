@@ -47,5 +47,4 @@ This project uses machine learning to predict the quality of red wine based on c
 
 ## Author
 - **Jaspreet Singh**
-- LinkedIn: [jaspreet-singh-itsupport](https://www.linkedin.com/in/jaspreet-singh-itsupport/)
 - Email: jaspreetsingh1024@outlook.com
